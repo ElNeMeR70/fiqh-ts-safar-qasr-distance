@@ -1,0 +1,11 @@
+{
+  "name": "fiqh-ts-safar-qasr-distance",
+  "version": "1.0.0",
+  "description": "Musafir Prayer Qasr & Jam' Distance Threshold Evaluator (حاسبة مسافة القصر والجمع في السفر بالوحدات المعاصرة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
